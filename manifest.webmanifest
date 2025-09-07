@@ -1,0 +1,13 @@
+{
+  "name": "Armijos Decoraciones",
+  "short_name": "Armijos",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f59e0b",
+  "lang": "es-EC",
+  "icons": [
+    { "src": "imagenes/Armijos Logo.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "imagenes/Armijos Logo.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
